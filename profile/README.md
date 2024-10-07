@@ -34,14 +34,14 @@
 
 |                                 양석준                                 |
 | :--------------------------------------------------------------------: |
-|                                                                        |
+| ![석준](https://avatars.githubusercontent.com/u/58018839?v=4)                                                                       |
 | [![github](assets/github.png) YangJJune](https://github.com/YangJJune) |
 
 ### Frontend
 
 |                                김성유                                |                                   김지환                                   |                                 양석준                                 |                               정연우                                |                                정서현                                |
 | :------------------------------------------------------------------: | :------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------: |
-|                                                                      |     ![지환](https://avatars.githubusercontent.com/u/67897841?s=96&v=4)     |                                                                        | ![연우](https://avatars.githubusercontent.com/u/132249641?s=64&v=4) |  ![서현](https://avatars.githubusercontent.com/u/81912226?s=96&v=4)  |
+|                                                                      |     ![지환](https://avatars.githubusercontent.com/u/67897841?s=96&v=4)     |       ![석준](https://avatars.githubusercontent.com/u/58018839?v=4)                                                                 | ![연우](https://avatars.githubusercontent.com/u/132249641?s=64&v=4) |  ![서현](https://avatars.githubusercontent.com/u/81912226?s=96&v=4)  |
 | [![github](assets/github.png) brian770](https://github.com/brian770) | [![github](assets/github.png) Turtle-Hwan](https://github.com/Turtle-Hwan) | [![github](assets/github.png) YangJJune](https://github.com/YangJJune) |  [![github](assets/github.png) woo319](https://github.com/woo319)   | [![github](assets/github.png) hyunn522](https://github.com/hyunn522) |
 
 ### Backend
